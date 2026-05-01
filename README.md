@@ -6,7 +6,7 @@ An AI-powered financial analytics and stock prediction web app built using Strea
 
 ## 🚀 Live Demo
 
-👉 (Add your deployed link here after Streamlit deployment)
+https://smart-wealth-pro.streamlit.app/
 
 ---
 
